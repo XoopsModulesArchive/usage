@@ -1,0 +1,2 @@
+RewriteRule ^usage/ modules/usage/index.php [L,NC,QSA]
+RewriteRule ^usage modules/usage/index.php [L,NC,QSA]
